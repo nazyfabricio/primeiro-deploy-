@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+figure {
+  img {
+    width: 400px;
+  }
+}
+section {
+  color: aliceblue;
+  width: 500px;
+  height: 300px;
+  border: solid black;
+  background-image: url("./img/Imagem WhatsApp 2024-10-02 às 18.33.33_f01d11cc.jpg");
+  // background-size: 300px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
